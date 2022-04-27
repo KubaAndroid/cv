@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## <p>Jakub Adamiak </p>
+#### Junior Android dev
+</p>
 
-You can use the [editor on GitHub](https://github.com/KubaAndroid/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## <p> Education
+2015 - 2020 Adam Mickiewicz University, Poznan	
+<p> IT, engineering degree </p> 
+</p>
 
-### Markdown
+## <p> Work experience
+### <p> Flow2Code
+#### <p> 11.2019 – 03. 2021
+•	Sunstone RTLS
+<p> Android application connecting to microcontrollers using Bluetooth Low Energy (BLE) through LoLan protocol (Low Latency Network Protocol). </p>
+Tech: Java, Bluetooth, Nordic Semiconductor libraries, auth0, Gson
+</p> </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>•	Kommen & Gehen </p>
+<p> Mobile app created for „Kommen und Gehen” music festival, using Augmented Reality. A „virtual leaflet”, informing participants about current festival-related events. </p>
+<p> Tech: Java, Kotlin, Dagger, MediaPlayer, Retrofit, Glide, skaner QR, Google Maps, Crashlytics, Firebase Messaging, Wikitude (Agumented Reality library) </p>
+<p> •	Nails </p>
+<p> App used for the initial diagnosins of diet deficiencies, using machine learning (on backend side). </p>
+<p> Tech: Kotlin, Room, CameraX, Glide, Retrofit, Przelewy24 library for payments </p>
+<p> • aScreen </p>
+<p> App displaying current schedule for university students and allowing to check-in using NFC card and register attendance. </p>
+<p> Tech: Kotlin, Retrofit, Paging, NFC </p>
+<p> •	College Index </p>
+<p> A mobile index for students and university employees, allows users to read and write data using an NFC card. </p>
+<p> Tech: Kotlin, Retrofit, Paging, NFC </p>
 
-```markdown
-Syntax highlighted code block
+## Personal projects:
+<p> •	Another movie app </p>
+<p> App for searching movies and storing them in a phone database, using The Movie Database API. </p>
+<p> Tech: Kotlin, ViewPager, Hilt, Retrofit, Room, Glide, TMDB api</p>
 
-# Header 1
-## Header 2
-### Header 3
+[Repo](https://github.com/KubaAndroid/AnotherMovieApp)
 
-- Bulleted
-- List
+<p> •	HangOut </p>
+<p> Social media app allowing its users to inform others about events nearby </p>
+<p> Tech: Kotlin, Hilt, DataStore, Google Maps, Firebase Authentication, Firestore Database, Realtime Database </p>
 
-1. Numbered
-2. List
+[Repo](https://github.com/KubaAndroid/HangOut)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KubaAndroid/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Other:
+- English B2
+- Driving license A, B
