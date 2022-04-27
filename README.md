@@ -24,7 +24,7 @@ Tech: Java, Bluetooth, Nordic Semiconductor libraries, auth0, Gson
 <p> App used for the initial diagnosins of diet deficiencies, using machine learning (on backend side). </p>
 <p> Tech: Kotlin, Room, CameraX, Glide, Retrofit, Przelewy24 library for payments </p>
 <p> • aScreen </p>
-<p> App displaying current schedule for university students and allows to check-in using NFC card, registering attendance. </p>
+<p> App displaying current schedule for university students and allowing to check-in using NFC card and register attendance. </p>
 <p> Tech: Kotlin, Retrofit, Paging, NFC </p>
 <p> •	College Index </p>
 <p> A mobile index for students and university employees, allows users to read and write data using an NFC card. </p>
