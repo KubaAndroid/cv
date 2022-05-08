@@ -36,6 +36,10 @@ Tech: Java, Bluetooth, Nordic Semiconductor libraries, auth0, Gson
 <p> Tech: Kotlin, ViewPager, Hilt, Retrofit, Room, Glide, TMDB api</p>
 
 [Repo](https://github.com/KubaAndroid/AnotherMovieApp)
+![search](https://github.com/KubaAndroid/cv/blob/gh-pages/movies_1.png)
+![details](https://github.com/KubaAndroid/cv/blob/gh-pages/movies_2.png)
+![fresh](https://github.com/KubaAndroid/cv/blob/gh-pages/movies_3.png)
+![playlist](https://github.com/KubaAndroid/cv/blob/gh-pages/movies_4.png)
 
 <p> •	HangOut </p>
 <p> Social media app allowing its users to inform others about events nearby </p>
