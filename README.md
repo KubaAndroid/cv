@@ -46,6 +46,10 @@ Tech: Java, Bluetooth, Nordic Semiconductor libraries, auth0, Gson
 <p> Tech: Kotlin, Hilt, DataStore, Google Maps, Firebase Authentication, Firestore Database, Realtime Database </p>
 
 [Repo](https://github.com/KubaAndroid/HangOut)
+![menu](https://github.com/KubaAndroid/cv/blob/gh-pages/hangout_1_m.jpg)
+![map add](https://github.com/KubaAndroid/cv/blob/gh-pages/hangout_2_m.jpg)
+![map check](https://github.com/KubaAndroid/cv/blob/gh-pages/hangout_3_m.jpg)
+![edit](https://github.com/KubaAndroid/cv/blob/gh-pages/hangout_4_m.jpg)
 
 ### Other:
 - English B2
