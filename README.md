@@ -37,7 +37,6 @@ Tech: Java, Bluetooth, Nordic Semiconductor libraries, auth0, Gson
 
 [Repo](https://github.com/KubaAndroid/AnotherMovieApp)
 ![search](https://github.com/KubaAndroid/cv/blob/gh-pages/movies_1_m.png)
-![details](https://github.com/KubaAndroid/cv/blob/gh-pages/movies_2_m.png)
 ![fresh](https://github.com/KubaAndroid/cv/blob/gh-pages/movies_3_m.png)
 ![playlist](https://github.com/KubaAndroid/cv/blob/gh-pages/movies_4_m.png)
 
@@ -47,7 +46,6 @@ Tech: Java, Bluetooth, Nordic Semiconductor libraries, auth0, Gson
 
 [Repo](https://github.com/KubaAndroid/HangOut)
 ![menu](https://github.com/KubaAndroid/cv/blob/gh-pages/hangout_1_m.jpg)
-![map add](https://github.com/KubaAndroid/cv/blob/gh-pages/hangout_2_m.jpg)
 ![map check](https://github.com/KubaAndroid/cv/blob/gh-pages/hangout_3_m.jpg)
 ![edit](https://github.com/KubaAndroid/cv/blob/gh-pages/hangout_4_m.jpg)
 
